@@ -32,6 +32,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0015-3sum](https://github.com/priyakanmani/Leetcode/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/priyakanmani/Leetcode/tree/master/0041-first-missing-positive) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/priyakanmani/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -40,8 +41,10 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0015-3sum](https://github.com/priyakanmani/Leetcode/tree/master/0015-3sum) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/priyakanmani/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/priyakanmani/Leetcode/tree/master/0041-first-missing-positive) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/priyakanmani/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 <!---LeetCode Topics End-->
