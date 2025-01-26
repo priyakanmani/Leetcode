@@ -30,6 +30,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/priyakanmani/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/priyakanmani/Leetcode/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/priyakanmani/Leetcode/tree/master/0041-first-missing-positive) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/priyakanmani/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -37,6 +38,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/priyakanmani/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/priyakanmani/Leetcode/tree/master/0015-3sum) |
 ## Sorting
 |  |
@@ -59,4 +61,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0014-longest-common-prefix](https://github.com/priyakanmani/Leetcode/tree/master/0014-longest-common-prefix) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/priyakanmani/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/priyakanmani/Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
