@@ -5,8 +5,8 @@ class Solution {
         int MaxArea=0;
         while(left<=right)
         {
-            int CurrentArea=Math.min(height[left],height[right])*(right-left);
-            MaxArea=Math.max(CurrentArea,MaxArea);
+            int currentArea=Math.min(height[left],height[right])*(right-left);
+            MaxArea=Math.max(MaxArea,currentArea);
             if(height[left]<height[right])
             {
                 left++;
