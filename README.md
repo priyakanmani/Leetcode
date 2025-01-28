@@ -88,5 +88,6 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/priyakanmani/Leetcode/tree/master/0009-palindrome-number) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/priyakanmani/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 <!---LeetCode Topics End-->
