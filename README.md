@@ -90,4 +90,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0009-palindrome-number](https://github.com/priyakanmani/Leetcode/tree/master/0009-palindrome-number) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/priyakanmani/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/priyakanmani/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/priyakanmani/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
