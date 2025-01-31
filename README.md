@@ -44,6 +44,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/priyakanmani/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/priyakanmani/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/priyakanmani/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/priyakanmani/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Two Pointers
 |  |
 | ------- |
@@ -103,6 +104,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0009-palindrome-number](https://github.com/priyakanmani/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/priyakanmani/Leetcode/tree/master/0048-rotate-image) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/priyakanmani/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/priyakanmani/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Linked List
 |  |
 | ------- |
@@ -125,4 +127,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/priyakanmani/Leetcode/tree/master/0054-spiral-matrix) |
+## Prefix Sum
+|  |
+| ------- |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/priyakanmani/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 <!---LeetCode Topics End-->
