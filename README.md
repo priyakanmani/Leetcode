@@ -47,6 +47,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/priyakanmani/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/priyakanmani/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/priyakanmani/Leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/priyakanmani/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Two Pointers
 |  |
 | ------- |
