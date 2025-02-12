@@ -47,6 +47,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0817-design-hashmap](https://github.com/priyakanmani/Leetcode/tree/master/0817-design-hashmap) |
 | [0898-transpose-matrix](https://github.com/priyakanmani/Leetcode/tree/master/0898-transpose-matrix) |
 | [1019-squares-of-a-sorted-array](https://github.com/priyakanmani/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1127-last-stone-weight](https://github.com/priyakanmani/Leetcode/tree/master/1127-last-stone-weight) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/priyakanmani/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/priyakanmani/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/priyakanmani/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -167,4 +168,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0817-design-hashmap](https://github.com/priyakanmani/Leetcode/tree/master/0817-design-hashmap) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1127-last-stone-weight](https://github.com/priyakanmani/Leetcode/tree/master/1127-last-stone-weight) |
 <!---LeetCode Topics End-->
