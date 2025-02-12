@@ -48,6 +48,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0898-transpose-matrix](https://github.com/priyakanmani/Leetcode/tree/master/0898-transpose-matrix) |
 | [1019-squares-of-a-sorted-array](https://github.com/priyakanmani/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1127-last-stone-weight](https://github.com/priyakanmani/Leetcode/tree/master/1127-last-stone-weight) |
+| [2737-row-with-maximum-ones](https://github.com/priyakanmani/Leetcode/tree/master/2737-row-with-maximum-ones) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/priyakanmani/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/priyakanmani/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/priyakanmani/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -145,6 +146,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0073-set-matrix-zeroes](https://github.com/priyakanmani/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/priyakanmani/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/priyakanmani/Leetcode/tree/master/0898-transpose-matrix) |
+| [2737-row-with-maximum-ones](https://github.com/priyakanmani/Leetcode/tree/master/2737-row-with-maximum-ones) |
 ## Simulation
 |  |
 | ------- |
