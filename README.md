@@ -47,6 +47,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0817-design-hashmap](https://github.com/priyakanmani/Leetcode/tree/master/0817-design-hashmap) |
 | [0898-transpose-matrix](https://github.com/priyakanmani/Leetcode/tree/master/0898-transpose-matrix) |
 | [1019-squares-of-a-sorted-array](https://github.com/priyakanmani/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1115-valid-boomerang](https://github.com/priyakanmani/Leetcode/tree/master/1115-valid-boomerang) |
 | [1127-last-stone-weight](https://github.com/priyakanmani/Leetcode/tree/master/1127-last-stone-weight) |
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/priyakanmani/Leetcode/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [2694-find-the-maximum-divisibility-score](https://github.com/priyakanmani/Leetcode/tree/master/2694-find-the-maximum-divisibility-score) |
@@ -123,6 +124,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0009-palindrome-number](https://github.com/priyakanmani/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/priyakanmani/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/priyakanmani/Leetcode/tree/master/0050-powx-n) |
+| [1115-valid-boomerang](https://github.com/priyakanmani/Leetcode/tree/master/1115-valid-boomerang) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/priyakanmani/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/priyakanmani/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Linked List
@@ -177,4 +179,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [1127-last-stone-weight](https://github.com/priyakanmani/Leetcode/tree/master/1127-last-stone-weight) |
+## Geometry
+|  |
+| ------- |
+| [1115-valid-boomerang](https://github.com/priyakanmani/Leetcode/tree/master/1115-valid-boomerang) |
 <!---LeetCode Topics End-->
