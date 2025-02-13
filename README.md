@@ -96,6 +96,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0014-longest-common-prefix](https://github.com/priyakanmani/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/priyakanmani/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0224-basic-calculator](https://github.com/priyakanmani/Leetcode/tree/master/0224-basic-calculator) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/priyakanmani/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Trie
 |  |
@@ -116,6 +117,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0042-trapping-rain-water](https://github.com/priyakanmani/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/priyakanmani/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/priyakanmani/Leetcode/tree/master/0224-basic-calculator) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -127,6 +129,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0048-rotate-image](https://github.com/priyakanmani/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/priyakanmani/Leetcode/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/priyakanmani/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/priyakanmani/Leetcode/tree/master/0224-basic-calculator) |
 | [1115-valid-boomerang](https://github.com/priyakanmani/Leetcode/tree/master/1115-valid-boomerang) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/priyakanmani/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/priyakanmani/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
@@ -141,6 +144,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/priyakanmani/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/priyakanmani/Leetcode/tree/master/0050-powx-n) |
+| [0224-basic-calculator](https://github.com/priyakanmani/Leetcode/tree/master/0224-basic-calculator) |
 ## String Matching
 |  |
 | ------- |
