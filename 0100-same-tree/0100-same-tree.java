@@ -19,9 +19,9 @@ class Solution {
         {
             return true;
         }
-        while(p!=null && q!=null && p.val==q.val)
+        while(p!=null && q!=null)
         {
-            return isSameTree(p.left,q.left) && isSameTree(p.right,q.right);
+            return p.val==q.val && isSameTree(p.left,q.left) && isSameTree(p.right,q.right);
         }
         return false;
     }
