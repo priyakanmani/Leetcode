@@ -54,6 +54,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0042-trapping-rain-water](https://github.com/priyakanmani/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/priyakanmani/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/priyakanmani/Leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/priyakanmani/Leetcode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/priyakanmani/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/priyakanmani/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/priyakanmani/Leetcode/tree/master/0118-pascals-triangle) |
@@ -132,12 +133,14 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/priyakanmani/Leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/priyakanmani/Leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/priyakanmani/Leetcode/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/priyakanmani/Leetcode/tree/master/0890-lemonade-change) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/priyakanmani/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/priyakanmani/Leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/priyakanmani/Leetcode/tree/master/0118-pascals-triangle) |
 ## Stack
 |  |
