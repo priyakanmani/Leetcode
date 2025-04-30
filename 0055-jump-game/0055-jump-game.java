@@ -5,26 +5,29 @@ class Solution {
         if (nums.length == 1) return true;
 
         while (i < nums.length) {
-            int maxJump = nums[i];
+            int pos = nums[i];
 
             // if we can directly reach the end
-            if (i + maxJump >= nums.length - 1) return true;
+            if (i + pos >= nums.length - 1) return true;
 
             // if current position cannot move forward
-            if (maxJump == 0) return false;
+            if (pos == 0) return false;
 
-            int bestNext = 0;
-            int nextIndex = i;
+            int max = 0;
+            int maxpos = i;
 
             // look ahead to find the best next jump
-            for (int j = 1; j <= maxJump; j++) {
-                if (i + j < nums.length && j + nums[i + j] > bestNext) {
-                    bestNext = j + nums[i + j];
-                    nextIndex = i + j;
+            for (int j = 1; j <= pos; j++) {
+                if (i + j < nums.length && nums[i + j] + j > max) {
+                    max = nums[i + j] + j;
+                    maxpos = i + j;
                 }
             }
 
-            i = nextIndex; // move to the best next position
+            // If we're stuck at same position, return false
+            if (maxpos == i) return false;
+
+            i = maxpos; // move to the best next position
         }
 
         return true;
