@@ -1,35 +1,34 @@
 class Solution {
     public boolean canJump(int[] nums) {
-        int i = 0;
-
-        if (nums.length == 1) return true;
-
-        while (i < nums.length) {
-            int pos = nums[i];
-
-            // if we can directly reach the end
-            if (i + pos >= nums.length - 1) return true;
-
-            // if current position cannot move forward
-            if (pos == 0) return false;
-
-            int max = 0;
-            int maxpos = i;
-
-            // look ahead to find the best next jump
-            for (int j = 1; j <= pos; j++) {
-                if (i + j < nums.length && nums[i + j] + j > max) {
-                    max = nums[i + j] + j;
-                    maxpos = i + j;
-                }
+        int i=0;
+        boolean res=false;
+        while(i<nums.length)
+        {
+            if(i+nums[i]>=nums.length-1)
+            {
+                return true;
             }
-
-            // If we're stuck at same position, return false
-            if (maxpos == i) return false;
-
-            i = maxpos; // move to the best next position
+            if(nums[i]==0 && i!=nums.length)
+            {
+                return false;
+            }
+            int max=0;
+            int maxpos=i;
+            for(int j=1;j<=nums[i];j++)
+            {
+               if(i+j<nums.length && i+j+nums[i+j]>max)
+               {
+                  max=i+j+nums[i+j];
+                  maxpos=i+j;
+               }
+            }
+            if(maxpos==i)
+            {
+                return false;
+            }
+            i=maxpos;
+              
         }
-
-        return true;
+        return res;
     }
 }
