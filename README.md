@@ -74,6 +74,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0174-dungeon-game](https://github.com/priyakanmani/Leetcode/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/priyakanmani/Leetcode/tree/master/0200-number-of-islands) |
 | [0349-intersection-of-two-arrays](https://github.com/priyakanmani/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0391-perfect-rectangle](https://github.com/priyakanmani/Leetcode/tree/master/0391-perfect-rectangle) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/priyakanmani/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/priyakanmani/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/priyakanmani/Leetcode/tree/master/0455-assign-cookies) |
@@ -280,4 +281,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/priyakanmani/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
+## Line Sweep
+|  |
+| ------- |
+| [0391-perfect-rectangle](https://github.com/priyakanmani/Leetcode/tree/master/0391-perfect-rectangle) |
 <!---LeetCode Topics End-->
