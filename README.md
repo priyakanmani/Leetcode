@@ -345,6 +345,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0601-human-traffic-of-stadium](https://github.com/priyakanmani/Leetcode/tree/master/0601-human-traffic-of-stadium) |
 | [0607-sales-person](https://github.com/priyakanmani/Leetcode/tree/master/0607-sales-person) |
 | [0610-triangle-judgement](https://github.com/priyakanmani/Leetcode/tree/master/0610-triangle-judgement) |
+| [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/priyakanmani/Leetcode/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 ## Ordered Set
 |  |
 | ------- |
