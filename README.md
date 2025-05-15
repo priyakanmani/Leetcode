@@ -73,6 +73,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/priyakanmani/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0174-dungeon-game](https://github.com/priyakanmani/Leetcode/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/priyakanmani/Leetcode/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/priyakanmani/Leetcode/tree/master/0212-word-search-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/priyakanmani/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0391-perfect-rectangle](https://github.com/priyakanmani/Leetcode/tree/master/0391-perfect-rectangle) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/priyakanmani/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -141,6 +142,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0087-scramble-string](https://github.com/priyakanmani/Leetcode/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/priyakanmani/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/priyakanmani/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
+| [0212-word-search-ii](https://github.com/priyakanmani/Leetcode/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/priyakanmani/Leetcode/tree/master/0224-basic-calculator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/priyakanmani/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/priyakanmani/Leetcode/tree/master/0301-remove-invalid-parentheses) |
@@ -149,6 +151,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/priyakanmani/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0212-word-search-ii](https://github.com/priyakanmani/Leetcode/tree/master/0212-word-search-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/priyakanmani/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Greedy
 |  |
@@ -224,6 +227,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0073-set-matrix-zeroes](https://github.com/priyakanmani/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0174-dungeon-game](https://github.com/priyakanmani/Leetcode/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/priyakanmani/Leetcode/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/priyakanmani/Leetcode/tree/master/0212-word-search-ii) |
 | [0566-reshape-the-matrix](https://github.com/priyakanmani/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/priyakanmani/Leetcode/tree/master/0898-transpose-matrix) |
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/priyakanmani/Leetcode/tree/master/2675-find-the-width-of-columns-of-a-grid) |
@@ -272,6 +276,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/priyakanmani/Leetcode/tree/master/0051-n-queens) |
+| [0212-word-search-ii](https://github.com/priyakanmani/Leetcode/tree/master/0212-word-search-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/priyakanmani/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 ## Database
 |  |
