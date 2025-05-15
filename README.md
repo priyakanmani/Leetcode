@@ -179,6 +179,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0132-palindrome-partitioning-ii](https://github.com/priyakanmani/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0174-dungeon-game](https://github.com/priyakanmani/Leetcode/tree/master/0174-dungeon-game) |
 | [0312-burst-balloons](https://github.com/priyakanmani/Leetcode/tree/master/0312-burst-balloons) |
+| [0600-non-negative-integers-without-consecutive-ones](https://github.com/priyakanmani/Leetcode/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 ## Stack
 |  |
 | ------- |
