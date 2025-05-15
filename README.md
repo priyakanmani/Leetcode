@@ -93,6 +93,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0630-course-schedule-iii](https://github.com/priyakanmani/Leetcode/tree/master/0630-course-schedule-iii) |
 | [0661-image-smoother](https://github.com/priyakanmani/Leetcode/tree/master/0661-image-smoother) |
 | [0682-baseball-game](https://github.com/priyakanmani/Leetcode/tree/master/0682-baseball-game) |
+| [0816-design-hashset](https://github.com/priyakanmani/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/priyakanmani/Leetcode/tree/master/0817-design-hashmap) |
 | [0890-lemonade-change](https://github.com/priyakanmani/Leetcode/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/priyakanmani/Leetcode/tree/master/0898-transpose-matrix) |
@@ -148,6 +149,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0442-find-all-duplicates-in-an-array](https://github.com/priyakanmani/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/priyakanmani/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0609-find-duplicate-file-in-system](https://github.com/priyakanmani/Leetcode/tree/master/0609-find-duplicate-file-in-system) |
+| [0816-design-hashset](https://github.com/priyakanmani/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/priyakanmani/Leetcode/tree/master/0817-design-hashmap) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/priyakanmani/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/priyakanmani/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -243,6 +245,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0141-linked-list-cycle](https://github.com/priyakanmani/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/priyakanmani/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/priyakanmani/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0816-design-hashset](https://github.com/priyakanmani/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/priyakanmani/Leetcode/tree/master/0817-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/priyakanmani/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
@@ -298,10 +301,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0295-find-median-from-data-stream](https://github.com/priyakanmani/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/priyakanmani/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/priyakanmani/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0816-design-hashset](https://github.com/priyakanmani/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/priyakanmani/Leetcode/tree/master/0817-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
+| [0816-design-hashset](https://github.com/priyakanmani/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/priyakanmani/Leetcode/tree/master/0817-design-hashmap) |
 ## Heap (Priority Queue)
 |  |
