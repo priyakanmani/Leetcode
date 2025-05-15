@@ -123,6 +123,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0014-longest-common-prefix](https://github.com/priyakanmani/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/priyakanmani/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0087-scramble-string](https://github.com/priyakanmani/Leetcode/tree/master/0087-scramble-string) |
 | [0224-basic-calculator](https://github.com/priyakanmani/Leetcode/tree/master/0224-basic-calculator) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/priyakanmani/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Trie
@@ -142,6 +143,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0042-trapping-rain-water](https://github.com/priyakanmani/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/priyakanmani/Leetcode/tree/master/0055-jump-game) |
+| [0087-scramble-string](https://github.com/priyakanmani/Leetcode/tree/master/0087-scramble-string) |
 | [0118-pascals-triangle](https://github.com/priyakanmani/Leetcode/tree/master/0118-pascals-triangle) |
 ## Stack
 |  |
