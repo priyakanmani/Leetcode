@@ -65,6 +65,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0118-pascals-triangle](https://github.com/priyakanmani/Leetcode/tree/master/0118-pascals-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/priyakanmani/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/priyakanmani/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/priyakanmani/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0174-dungeon-game](https://github.com/priyakanmani/Leetcode/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/priyakanmani/Leetcode/tree/master/0200-number-of-islands) |
 | [0349-intersection-of-two-arrays](https://github.com/priyakanmani/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -234,6 +235,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Binary Search
 |  |
 | ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/priyakanmani/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/priyakanmani/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Design
 |  |
