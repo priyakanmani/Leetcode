@@ -84,6 +84,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0455-assign-cookies](https://github.com/priyakanmani/Leetcode/tree/master/0455-assign-cookies) |
 | [0566-reshape-the-matrix](https://github.com/priyakanmani/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0587-erect-the-fence](https://github.com/priyakanmani/Leetcode/tree/master/0587-erect-the-fence) |
+| [0630-course-schedule-iii](https://github.com/priyakanmani/Leetcode/tree/master/0630-course-schedule-iii) |
 | [0817-design-hashmap](https://github.com/priyakanmani/Leetcode/tree/master/0817-design-hashmap) |
 | [0890-lemonade-change](https://github.com/priyakanmani/Leetcode/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/priyakanmani/Leetcode/tree/master/0898-transpose-matrix) |
@@ -122,6 +123,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0295-find-median-from-data-stream](https://github.com/priyakanmani/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/priyakanmani/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/priyakanmani/Leetcode/tree/master/0455-assign-cookies) |
+| [0630-course-schedule-iii](https://github.com/priyakanmani/Leetcode/tree/master/0630-course-schedule-iii) |
 | [1019-squares-of-a-sorted-array](https://github.com/priyakanmani/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/priyakanmani/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
@@ -171,6 +173,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0044-wildcard-matching](https://github.com/priyakanmani/Leetcode/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/priyakanmani/Leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/priyakanmani/Leetcode/tree/master/0455-assign-cookies) |
+| [0630-course-schedule-iii](https://github.com/priyakanmani/Leetcode/tree/master/0630-course-schedule-iii) |
 | [0890-lemonade-change](https://github.com/priyakanmani/Leetcode/tree/master/0890-lemonade-change) |
 ## Dynamic Programming
 |  |
@@ -284,6 +287,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0218-the-skyline-problem](https://github.com/priyakanmani/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0295-find-median-from-data-stream](https://github.com/priyakanmani/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0630-course-schedule-iii](https://github.com/priyakanmani/Leetcode/tree/master/0630-course-schedule-iii) |
 | [1127-last-stone-weight](https://github.com/priyakanmani/Leetcode/tree/master/1127-last-stone-weight) |
 ## Geometry
 |  |
