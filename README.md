@@ -74,6 +74,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0174-dungeon-game](https://github.com/priyakanmani/Leetcode/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/priyakanmani/Leetcode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/priyakanmani/Leetcode/tree/master/0212-word-search-ii) |
+| [0218-the-skyline-problem](https://github.com/priyakanmani/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0312-burst-balloons](https://github.com/priyakanmani/Leetcode/tree/master/0312-burst-balloons) |
 | [0349-intersection-of-two-arrays](https://github.com/priyakanmani/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0391-perfect-rectangle](https://github.com/priyakanmani/Leetcode/tree/master/0391-perfect-rectangle) |
@@ -268,6 +269,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/priyakanmani/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0295-find-median-from-data-stream](https://github.com/priyakanmani/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [1127-last-stone-weight](https://github.com/priyakanmani/Leetcode/tree/master/1127-last-stone-weight) |
 ## Geometry
@@ -291,13 +293,27 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Ordered Set
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/priyakanmani/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/priyakanmani/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Line Sweep
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/priyakanmani/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0391-perfect-rectangle](https://github.com/priyakanmani/Leetcode/tree/master/0391-perfect-rectangle) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/priyakanmani/Leetcode/tree/master/0295-find-median-from-data-stream) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/priyakanmani/Leetcode/tree/master/0218-the-skyline-problem) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/priyakanmani/Leetcode/tree/master/0218-the-skyline-problem) |
+## Segment Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/priyakanmani/Leetcode/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
