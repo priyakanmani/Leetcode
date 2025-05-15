@@ -84,6 +84,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0455-assign-cookies](https://github.com/priyakanmani/Leetcode/tree/master/0455-assign-cookies) |
 | [0566-reshape-the-matrix](https://github.com/priyakanmani/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0587-erect-the-fence](https://github.com/priyakanmani/Leetcode/tree/master/0587-erect-the-fence) |
+| [0609-find-duplicate-file-in-system](https://github.com/priyakanmani/Leetcode/tree/master/0609-find-duplicate-file-in-system) |
 | [0630-course-schedule-iii](https://github.com/priyakanmani/Leetcode/tree/master/0630-course-schedule-iii) |
 | [0817-design-hashmap](https://github.com/priyakanmani/Leetcode/tree/master/0817-design-hashmap) |
 | [0890-lemonade-change](https://github.com/priyakanmani/Leetcode/tree/master/0890-lemonade-change) |
@@ -137,6 +138,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0349-intersection-of-two-arrays](https://github.com/priyakanmani/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/priyakanmani/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/priyakanmani/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0609-find-duplicate-file-in-system](https://github.com/priyakanmani/Leetcode/tree/master/0609-find-duplicate-file-in-system) |
 | [0817-design-hashmap](https://github.com/priyakanmani/Leetcode/tree/master/0817-design-hashmap) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/priyakanmani/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/priyakanmani/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -158,6 +160,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0336-palindrome-pairs](https://github.com/priyakanmani/Leetcode/tree/master/0336-palindrome-pairs) |
 | [0564-find-the-closest-palindrome](https://github.com/priyakanmani/Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0591-tag-validator](https://github.com/priyakanmani/Leetcode/tree/master/0591-tag-validator) |
+| [0609-find-duplicate-file-in-system](https://github.com/priyakanmani/Leetcode/tree/master/0609-find-duplicate-file-in-system) |
 | [0639-decode-ways-ii](https://github.com/priyakanmani/Leetcode/tree/master/0639-decode-ways-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/priyakanmani/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Trie
