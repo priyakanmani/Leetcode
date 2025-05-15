@@ -74,6 +74,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0174-dungeon-game](https://github.com/priyakanmani/Leetcode/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/priyakanmani/Leetcode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/priyakanmani/Leetcode/tree/master/0212-word-search-ii) |
+| [0312-burst-balloons](https://github.com/priyakanmani/Leetcode/tree/master/0312-burst-balloons) |
 | [0349-intersection-of-two-arrays](https://github.com/priyakanmani/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0391-perfect-rectangle](https://github.com/priyakanmani/Leetcode/tree/master/0391-perfect-rectangle) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/priyakanmani/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -174,6 +175,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0124-binary-tree-maximum-path-sum](https://github.com/priyakanmani/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/priyakanmani/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0174-dungeon-game](https://github.com/priyakanmani/Leetcode/tree/master/0174-dungeon-game) |
+| [0312-burst-balloons](https://github.com/priyakanmani/Leetcode/tree/master/0312-burst-balloons) |
 ## Stack
 |  |
 | ------- |
