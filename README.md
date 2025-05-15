@@ -290,6 +290,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0185-department-top-three-salaries](https://github.com/priyakanmani/Leetcode/tree/master/0185-department-top-three-salaries) |
+| [0601-human-traffic-of-stadium](https://github.com/priyakanmani/Leetcode/tree/master/0601-human-traffic-of-stadium) |
 ## Ordered Set
 |  |
 | ------- |
