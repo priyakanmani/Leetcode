@@ -375,4 +375,5 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0693-binary-number-with-alternating-bits](https://github.com/priyakanmani/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
+| [1054-complement-of-base-10-integer](https://github.com/priyakanmani/Leetcode/tree/master/1054-complement-of-base-10-integer) |
 <!---LeetCode Topics End-->
