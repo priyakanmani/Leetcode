@@ -99,6 +99,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0682-baseball-game](https://github.com/priyakanmani/Leetcode/tree/master/0682-baseball-game) |
 | [0816-design-hashset](https://github.com/priyakanmani/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/priyakanmani/Leetcode/tree/master/0817-design-hashmap) |
+| [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/priyakanmani/Leetcode/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [0890-lemonade-change](https://github.com/priyakanmani/Leetcode/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/priyakanmani/Leetcode/tree/master/0898-transpose-matrix) |
 | [1019-squares-of-a-sorted-array](https://github.com/priyakanmani/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -217,6 +218,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/priyakanmani/Leetcode/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0629-k-inverse-pairs-array](https://github.com/priyakanmani/Leetcode/tree/master/0629-k-inverse-pairs-array) |
 | [0639-decode-ways-ii](https://github.com/priyakanmani/Leetcode/tree/master/0639-decode-ways-ii) |
+| [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/priyakanmani/Leetcode/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 ## Stack
 |  |
 | ------- |
