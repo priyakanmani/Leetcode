@@ -188,6 +188,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0312-burst-balloons](https://github.com/priyakanmani/Leetcode/tree/master/0312-burst-balloons) |
 | [0552-student-attendance-record-ii](https://github.com/priyakanmani/Leetcode/tree/master/0552-student-attendance-record-ii) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/priyakanmani/Leetcode/tree/master/0600-non-negative-integers-without-consecutive-ones) |
+| [0629-k-inverse-pairs-array](https://github.com/priyakanmani/Leetcode/tree/master/0629-k-inverse-pairs-array) |
 ## Stack
 |  |
 | ------- |
