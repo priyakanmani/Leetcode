@@ -56,6 +56,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0051-n-queens](https://github.com/priyakanmani/Leetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/priyakanmani/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/priyakanmani/Leetcode/tree/master/0055-jump-game) |
+| [0068-text-justification](https://github.com/priyakanmani/Leetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/priyakanmani/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/priyakanmani/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/priyakanmani/Leetcode/tree/master/0118-pascals-triangle) |
@@ -125,6 +126,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0014-longest-common-prefix](https://github.com/priyakanmani/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/priyakanmani/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/priyakanmani/Leetcode/tree/master/0044-wildcard-matching) |
+| [0068-text-justification](https://github.com/priyakanmani/Leetcode/tree/master/0068-text-justification) |
 | [0087-scramble-string](https://github.com/priyakanmani/Leetcode/tree/master/0087-scramble-string) |
 | [0224-basic-calculator](https://github.com/priyakanmani/Leetcode/tree/master/0224-basic-calculator) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/priyakanmani/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -211,6 +213,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/priyakanmani/Leetcode/tree/master/0054-spiral-matrix) |
+| [0068-text-justification](https://github.com/priyakanmani/Leetcode/tree/master/0068-text-justification) |
 | [0566-reshape-the-matrix](https://github.com/priyakanmani/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/priyakanmani/Leetcode/tree/master/0898-transpose-matrix) |
 ## Prefix Sum
