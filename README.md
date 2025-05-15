@@ -106,6 +106,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0042-trapping-rain-water](https://github.com/priyakanmani/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/priyakanmani/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/priyakanmani/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0295-find-median-from-data-stream](https://github.com/priyakanmani/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/priyakanmani/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/priyakanmani/Leetcode/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/priyakanmani/Leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -115,6 +116,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0015-3sum](https://github.com/priyakanmani/Leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/priyakanmani/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0295-find-median-from-data-stream](https://github.com/priyakanmani/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/priyakanmani/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/priyakanmani/Leetcode/tree/master/0455-assign-cookies) |
 | [1019-squares-of-a-sorted-array](https://github.com/priyakanmani/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -255,6 +257,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/priyakanmani/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/priyakanmani/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/priyakanmani/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0817-design-hashmap](https://github.com/priyakanmani/Leetcode/tree/master/0817-design-hashmap) |
@@ -265,6 +268,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/priyakanmani/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [1127-last-stone-weight](https://github.com/priyakanmani/Leetcode/tree/master/1127-last-stone-weight) |
 ## Geometry
 |  |
@@ -292,4 +296,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0391-perfect-rectangle](https://github.com/priyakanmani/Leetcode/tree/master/0391-perfect-rectangle) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/priyakanmani/Leetcode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
