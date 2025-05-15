@@ -40,6 +40,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0200-number-of-islands](https://github.com/priyakanmani/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/priyakanmani/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/priyakanmani/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/priyakanmani/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0404-sum-of-left-leaves](https://github.com/priyakanmani/Leetcode/tree/master/0404-sum-of-left-leaves) |
 ## Binary Tree
 |  |
@@ -141,6 +142,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0132-palindrome-partitioning-ii](https://github.com/priyakanmani/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0224-basic-calculator](https://github.com/priyakanmani/Leetcode/tree/master/0224-basic-calculator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/priyakanmani/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/priyakanmani/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/priyakanmani/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Trie
 |  |
@@ -269,6 +271,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/priyakanmani/Leetcode/tree/master/0051-n-queens) |
+| [0301-remove-invalid-parentheses](https://github.com/priyakanmani/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 ## Database
 |  |
 | ------- |
