@@ -22,6 +22,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/priyakanmani/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/priyakanmani/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0606-construct-string-from-binary-tree](https://github.com/priyakanmani/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/priyakanmani/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -33,6 +34,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/priyakanmani/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/priyakanmani/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0606-construct-string-from-binary-tree](https://github.com/priyakanmani/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/priyakanmani/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -55,6 +57,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/priyakanmani/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/priyakanmani/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0606-construct-string-from-binary-tree](https://github.com/priyakanmani/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/priyakanmani/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 ## Array
 |  |
 | ------- |
