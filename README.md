@@ -123,6 +123,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0014-longest-common-prefix](https://github.com/priyakanmani/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/priyakanmani/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0044-wildcard-matching](https://github.com/priyakanmani/Leetcode/tree/master/0044-wildcard-matching) |
 | [0087-scramble-string](https://github.com/priyakanmani/Leetcode/tree/master/0087-scramble-string) |
 | [0224-basic-calculator](https://github.com/priyakanmani/Leetcode/tree/master/0224-basic-calculator) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/priyakanmani/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -135,6 +136,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/priyakanmani/Leetcode/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/priyakanmani/Leetcode/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/priyakanmani/Leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/priyakanmani/Leetcode/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/priyakanmani/Leetcode/tree/master/0890-lemonade-change) |
@@ -142,6 +144,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/priyakanmani/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/priyakanmani/Leetcode/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/priyakanmani/Leetcode/tree/master/0055-jump-game) |
 | [0087-scramble-string](https://github.com/priyakanmani/Leetcode/tree/master/0087-scramble-string) |
 | [0118-pascals-triangle](https://github.com/priyakanmani/Leetcode/tree/master/0118-pascals-triangle) |
@@ -181,6 +184,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/priyakanmani/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0044-wildcard-matching](https://github.com/priyakanmani/Leetcode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/priyakanmani/Leetcode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/priyakanmani/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/priyakanmani/Leetcode/tree/master/0206-reverse-linked-list) |
