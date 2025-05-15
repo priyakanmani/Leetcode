@@ -239,4 +239,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/priyakanmani/Leetcode/tree/master/0051-n-queens) |
+## Database
+|  |
+| ------- |
+| [0185-department-top-three-salaries](https://github.com/priyakanmani/Leetcode/tree/master/0185-department-top-three-salaries) |
 <!---LeetCode Topics End-->
