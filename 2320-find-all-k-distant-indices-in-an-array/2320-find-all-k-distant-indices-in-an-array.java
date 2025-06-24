@@ -14,7 +14,7 @@ class Solution {
             int flag=0;
              for(int l:list)
              {
-                 if(Math.abs(i-l)<=k && nums[l]==key)
+                 if(Math.abs(i-l)<=k)
                  {
                      flag=1;
                  }
