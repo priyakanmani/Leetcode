@@ -105,6 +105,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1019-squares-of-a-sorted-array](https://github.com/priyakanmani/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1115-valid-boomerang](https://github.com/priyakanmani/Leetcode/tree/master/1115-valid-boomerang) |
 | [1127-last-stone-weight](https://github.com/priyakanmani/Leetcode/tree/master/1127-last-stone-weight) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/priyakanmani/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/priyakanmani/Leetcode/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [2694-find-the-maximum-divisibility-score](https://github.com/priyakanmani/Leetcode/tree/master/2694-find-the-maximum-divisibility-score) |
 | [2737-row-with-maximum-ones](https://github.com/priyakanmani/Leetcode/tree/master/2737-row-with-maximum-ones) |
@@ -130,6 +131,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0611-valid-triangle-number](https://github.com/priyakanmani/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0908-middle-of-the-linked-list](https://github.com/priyakanmani/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/priyakanmani/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/priyakanmani/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Sorting
 |  |
 | ------- |
