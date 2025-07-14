@@ -255,6 +255,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0564-find-the-closest-palindrome](https://github.com/priyakanmani/Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0587-erect-the-fence](https://github.com/priyakanmani/Leetcode/tree/master/0587-erect-the-fence) |
 | [1115-valid-boomerang](https://github.com/priyakanmani/Leetcode/tree/master/1115-valid-boomerang) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/priyakanmani/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/priyakanmani/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/priyakanmani/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Linked List
@@ -269,6 +270,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0816-design-hashset](https://github.com/priyakanmani/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/priyakanmani/Leetcode/tree/master/0817-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/priyakanmani/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/priyakanmani/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
