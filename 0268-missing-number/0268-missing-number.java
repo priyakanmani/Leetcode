@@ -8,12 +8,12 @@ class Solution {
 
         // XOR of array elements
         for (int i = 0; i < n; i++) {
-            xor =xor ^ nums[i];
+            xor ^= nums[i];
         }
 
         // XOR of numbers from 0 to n
         for (int i = 0; i <= n; i++) {
-            xor = xor ^i;
+            xor ^= i;
         }
 
       
