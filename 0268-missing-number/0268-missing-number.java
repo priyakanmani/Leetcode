@@ -1,8 +1,6 @@
 class Solution {
     public int missingNumber(int[] nums) {
         
-
-         // example
         int n = nums.length;
 
         int xor1 = 0;   // XOR of all array elements
@@ -10,12 +8,12 @@ class Solution {
 
         // XOR of array elements
         for (int i = 0; i < n; i++) {
-            xor1 ^= nums[i];
+            xor1 =xor1 ^ nums[i];
         }
 
         // XOR of numbers from 0 to n
         for (int i = 0; i <= n; i++) {
-            xor2 ^= i;
+            xor2 = xor2 ^i;
         }
 
         // Missing number = xor1 ^ xor2
