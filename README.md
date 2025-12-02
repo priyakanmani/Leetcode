@@ -70,6 +70,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0042-trapping-rain-water](https://github.com/priyakanmani/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/priyakanmani/Leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/priyakanmani/Leetcode/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/priyakanmani/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/priyakanmani/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/priyakanmani/Leetcode/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/priyakanmani/Leetcode/tree/master/0068-text-justification) |
@@ -225,6 +226,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0042-trapping-rain-water](https://github.com/priyakanmani/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/priyakanmani/Leetcode/tree/master/0044-wildcard-matching) |
+| [0053-maximum-subarray](https://github.com/priyakanmani/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/priyakanmani/Leetcode/tree/master/0055-jump-game) |
 | [0087-scramble-string](https://github.com/priyakanmani/Leetcode/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/priyakanmani/Leetcode/tree/master/0115-distinct-subsequences) |
@@ -392,6 +394,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/priyakanmani/Leetcode/tree/master/0053-maximum-subarray) |
 | [0218-the-skyline-problem](https://github.com/priyakanmani/Leetcode/tree/master/0218-the-skyline-problem) |
 ## Binary Indexed Tree
 |  |
