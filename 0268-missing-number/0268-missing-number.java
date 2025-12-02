@@ -3,23 +3,22 @@ class Solution {
         
         int n = nums.length;
 
-        int xor1 = 0;   // XOR of all array elements
-        int xor2 = 0;   // XOR of all numbers from 0 to n
+        int xor = 0;   // XOR of all array elements
+       
 
         // XOR of array elements
         for (int i = 0; i < n; i++) {
-            xor1 =xor1 ^ nums[i];
+            xor =xor ^ nums[i];
         }
 
         // XOR of numbers from 0 to n
         for (int i = 0; i <= n; i++) {
-            xor2 = xor2 ^i;
+            xor = xor ^i;
         }
 
-        // Missing number = xor1 ^ xor2
-        int missing = xor1 ^ xor2;
+      
 
-        return missing;
+        return xor;
  
 
     }
