@@ -83,6 +83,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0200-number-of-islands](https://github.com/priyakanmani/Leetcode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/priyakanmani/Leetcode/tree/master/0212-word-search-ii) |
 | [0218-the-skyline-problem](https://github.com/priyakanmani/Leetcode/tree/master/0218-the-skyline-problem) |
+| [0268-missing-number](https://github.com/priyakanmani/Leetcode/tree/master/0268-missing-number) |
 | [0312-burst-balloons](https://github.com/priyakanmani/Leetcode/tree/master/0312-burst-balloons) |
 | [0336-palindrome-pairs](https://github.com/priyakanmani/Leetcode/tree/master/0336-palindrome-pairs) |
 | [0349-intersection-of-two-arrays](https://github.com/priyakanmani/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -143,6 +144,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0015-3sum](https://github.com/priyakanmani/Leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/priyakanmani/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/priyakanmani/Leetcode/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/priyakanmani/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/priyakanmani/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/priyakanmani/Leetcode/tree/master/0455-assign-cookies) |
@@ -160,6 +162,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0041-first-missing-positive](https://github.com/priyakanmani/Leetcode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/priyakanmani/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/priyakanmani/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0268-missing-number](https://github.com/priyakanmani/Leetcode/tree/master/0268-missing-number) |
 | [0336-palindrome-pairs](https://github.com/priyakanmani/Leetcode/tree/master/0336-palindrome-pairs) |
 | [0349-intersection-of-two-arrays](https://github.com/priyakanmani/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/priyakanmani/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -258,6 +261,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0050-powx-n](https://github.com/priyakanmani/Leetcode/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/priyakanmani/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/priyakanmani/Leetcode/tree/master/0224-basic-calculator) |
+| [0268-missing-number](https://github.com/priyakanmani/Leetcode/tree/master/0268-missing-number) |
 | [0564-find-the-closest-palindrome](https://github.com/priyakanmani/Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0587-erect-the-fence](https://github.com/priyakanmani/Leetcode/tree/master/0587-erect-the-fence) |
 | [1115-valid-boomerang](https://github.com/priyakanmani/Leetcode/tree/master/1115-valid-boomerang) |
@@ -324,6 +328,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/priyakanmani/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0268-missing-number](https://github.com/priyakanmani/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/priyakanmani/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/priyakanmani/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0611-valid-triangle-number](https://github.com/priyakanmani/Leetcode/tree/master/0611-valid-triangle-number) |
@@ -399,6 +404,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/priyakanmani/Leetcode/tree/master/0268-missing-number) |
 | [0693-binary-number-with-alternating-bits](https://github.com/priyakanmani/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [1054-complement-of-base-10-integer](https://github.com/priyakanmani/Leetcode/tree/master/1054-complement-of-base-10-integer) |
 ## Sliding Window
