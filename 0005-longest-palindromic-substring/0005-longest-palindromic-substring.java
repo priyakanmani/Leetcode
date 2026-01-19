@@ -30,7 +30,8 @@ class Solution {
                     }
                 }
             }
+
         }
-        return s.length()>1?result:s;
+        return result;
     }
 }
